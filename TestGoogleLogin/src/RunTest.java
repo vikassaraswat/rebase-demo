@@ -1,6 +1,10 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+/*
+	Changes by Vikas 
+*/
+
 /**
  * @author Nils Schuette via frontendtest.org
  */
